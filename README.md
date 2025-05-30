@@ -15,3 +15,7 @@
 final
 
 增加了输入校验
+
+
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Collin006/Stusys001)
