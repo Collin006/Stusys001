@@ -169,21 +169,51 @@ void StudentManager::queryStudent() const {
 void StudentManager::queryById() const {
     string id = getValidId();
     int idx = findById(id);
-    vector<Person*> res;
-    if (idx != -1) res.push_back(students[idx]);
-    displayAndSort(res);
+    if (idx != -1) {
+        // 只显示一个结果，不排序
+        cout << left << setw(10) << "学号"
+            << setw(10) << "姓名"
+            << setw(6) << "性别"
+            << setw(8) << "民族"
+            << setw(4) << "年龄"
+            << setw(15) << "地址";
+        for (auto& cname : courseNames) cout << setw(8) << cname;
+        cout << endl;
+        students[idx]->displayInfo(courseNames);
+    }
+    else {
+        cout << "未找到相关学生。\n";
+    }
 }
 
 void StudentManager::queryByName() const {
     string name;
-    cout << "请输入要查找的姓名（支持模糊匹配）: ";
-    cin >> name;
+    cout << "请输入要查找的姓名：";
+    getline(cin, name);
     vector<Person*> results;
     for (const auto& p : students) {
-        if (p->name.find(name) != string::npos)
+        if (p->name == name)
             results.push_back(p);
     }
-    displayAndSort(results);
+    if (results.empty()) {
+        cout << "未找到相关学生。\n";
+    }
+    else {
+        cout << "共找到" << results.size() << "位同名学生：" << endl;
+        cout << left << setw(10) << "学号"
+            << setw(10) << "姓名"
+            << setw(6) << "性别"
+            << setw(8) << "民族"
+            << setw(4) << "年龄"
+            << setw(15) << "地址";
+        for (auto& cname : courseNames) cout << setw(8) << cname;
+        cout << endl;
+        for (auto* p : results) p->displayInfo(courseNames);
+
+        if (results.size() > 1) {
+            cout << "注意：存在重名学生，如需进一步操作（如修改、删除），请使用学号。\n";
+        }
+    }
 }
 
 void StudentManager::queryByGender() const {

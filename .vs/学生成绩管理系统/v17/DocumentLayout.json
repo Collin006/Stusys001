@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\",
+  "WorkspaceRootPath": "F:\\ffile\\GitHub\\Stusys\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC58DE25-A9B5-45B6-8AAF-D745C991236A}|\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,59 +58,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "person.cpp",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp",
               "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp",
               "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-30T05:01:23.659Z"
+              "WhenOpened": "2025-05-30T05:01:23.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "person.h",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h",
               "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h",
               "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\person.h",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-30T05:01:07.392Z"
+              "WhenOpened": "2025-05-30T05:01:07.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentManager.h",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h",
+              "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h",
+              "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T06:32:44.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StudentManager.h",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h",
-              "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h",
-              "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-20T06:32:44.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "InputUtils.h",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h",
               "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h",
               "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-20T06:41:47.372Z"
+              "WhenOpened": "2025-05-20T06:41:47.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InputUtils.cpp",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp",
               "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp",
               "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\InputUtils.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -119,35 +123,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp",
               "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp",
               "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-20T06:34:06.175Z"
+              "WhenOpened": "2025-05-20T06:34:06.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StudentManager.cpp",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp",
               "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp",
               "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\StudentManager.cpp",
-              "ViewState": "AgIAAEgBAAAAAAAAAAAAAFcBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwK4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-20T06:33:32.747Z"
+              "WhenOpened": "2025-05-20T06:33:32.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Student.h",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h",
               "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h",
               "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.h",
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -155,11 +161,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Student.cpp",
-              "DocumentMoniker": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp",
+              "DocumentMoniker": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp",
               "RelativeDocumentMoniker": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp",
-              "ToolTip": "F:\\ffile\\CODE\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDFfinal\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp",
+              "ToolTip": "F:\\ffile\\GitHub\\Stusys\\\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp",
               "RelativeToolTip": "\u5B66\u751F\u6210\u7EE9\u7BA1\u7406\u7CFB\u7EDF\\Student.cpp",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

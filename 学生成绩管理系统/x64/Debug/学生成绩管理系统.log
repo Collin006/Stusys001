@@ -1,2 +1,3 @@
-﻿  InputUtils.cpp
-  学生成绩管理系统.vcxproj -> F:\ffile\CODE\学生成绩管理系统004 - 副本\x64\Debug\学生成绩管理系统.exe
+﻿  StudentManager.cpp
+F:\ffile\GitHub\Stusys\学生成绩管理系统\StudentManager.cpp(104,20): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  学生成绩管理系统.vcxproj -> F:\ffile\GitHub\Stusys\x64\Debug\学生成绩管理系统.exe
