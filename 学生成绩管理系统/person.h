@@ -3,23 +3,23 @@
 
 #include <string>
 #include <vector>
-
+using namespace std;
 class Person {
 public:
-    std::string name;
-    std::string gender;
-    std::string nation;
+    string name;
+    string gender;
+    string nation;
     int age;
-    std::string address;
+    string address;
 
     Person();
-    Person(std::string _name, std::string _gender, std::string _nation, int _age, std::string _address);
+    Person(string _name, string _gender, string _nation, int _age, string _address);
 
     // 虚析构，保证多态删除安全
     virtual ~Person() {}
 
     // 虚函数
-    virtual void displayInfo(const std::vector<std::string>& courseNames) const = 0;
+    virtual void displayInfo(const vector<string>& courseNames) const = 0;
 };
 
 #endif // PERSON_H

@@ -5,17 +5,19 @@
 #include <vector>
 #include <string>
 
+using namespace std;    
+
 class StudentManager {
 private:
-    std::vector<Person*> students;
-    std::vector<std::string> courseNames;
+    vector<Person*> students;
+    vector<string> courseNames;
 public:
     StudentManager();
     ~StudentManager();
 
     void addStudent();
     void showAll() const;
-    int findById(const std::string& id) const;
+    int findById(const string& id) const;
     void deleteStudent();
     void modifyStudent();
     // ...其它查询和排序声明（同你原来的即可）...
@@ -28,12 +30,12 @@ public:
     void queryByAgeRange() const;
     void queryByCourseScore() const;
 
-    void displayAndSort(std::vector<Person*> results) const;
+    void displayAndSort(vector<Person*> results) const;
 
-    void saveToFile(const std::string& filename) const;
-    void loadFromFile(const std::string& filename);
-    std::vector<std::string> getCourseNames() const { return courseNames; }
-    std::vector<Person*> getStudents() const { return students; }
+    void saveToFile(const string& filename) const;
+    void loadFromFile(const string& filename);
+    vector<string> getCourseNames() const { return courseNames; }
+    vector<Person*> getStudents() const { return students; }
 };
 
 #endif // STUDENTMANAGER_H

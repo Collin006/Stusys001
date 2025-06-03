@@ -7,13 +7,13 @@
 
 class Student : public Person {
 public:
-    std::string id;
-    std::vector<double> grades;
+    string id;
+    vector<double> grades;
 
     Student();
-    Student(std::string _id, std::string _name, std::string _gender, std::string _nation, int _age, std::string _address, std::vector<double> _grades);
+    Student(string _id, string _name, string _gender, string _nation, int _age, string _address, vector<double> _grades);
 
-    void displayInfo(const std::vector<std::string>& courseNames) const override;
+    void displayInfo(const vector<string>& courseNames) const override;
 };
 
 #endif // STUDENT_H

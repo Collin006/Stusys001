@@ -2,14 +2,16 @@
 #define INPUTUTILS_H
 
 #include <string>
-std::string getChineseInput(const std::string& prompt, int minCount, int maxCount);
+using namespace std;	
 
-std::string getValidId();
-std::string getValidName();
-std::string getValidGender();
-std::string getValidNation();
+string getChineseInput(const string& prompt, int minCount, int maxCount);
+
+string getValidId();
+string getValidName();
+string getValidGender();
+string getValidNation();
 int getValidAge();
 double getValidGrade();
-std::string getValidAddress(int maxLength = 50);
+string getValidAddress(int maxLength = 50);
 
 #endif // INPUTUTILS_H
