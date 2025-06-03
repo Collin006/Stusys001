@@ -5,6 +5,7 @@
 using namespace std;
 
 // 判断字符串是否全为常用汉字（UTF-8，CJK统一汉字 0x4E00~0x9FFF）
+// 检测字符串是不是全汉字
 bool isAllChinese(const string& str) {
     if (str.empty()) return false;
     for (unsigned char c : str) {
@@ -14,6 +15,7 @@ bool isAllChinese(const string& str) {
     return true;
 }
 
+// 统计输入了多少个汉字
 int countChineseChars(const string& str) {
     int count = 0;
     for (size_t i = 0; i < str.size(); ) {
@@ -41,6 +43,7 @@ int countChineseChars(const string& str) {
     return count;
 }
 
+// 负责提示输入，只要不是全汉字或者数量不对，就会反复要求用户重新输入，直到合法为止。
 string getChineseInput(const string& prompt, int minCount, int maxCount) {
     string input;
     while (true) {
@@ -53,17 +56,15 @@ string getChineseInput(const string& prompt, int minCount, int maxCount) {
     }
 }
 
-// ========== 其他输入函数不变 ==========
-
 // 学号：8位数字
 string getValidId() {
     string id;
-    regex idPattern("\\d{8}");
+	regex idPattern("\\d{8}"); // 正则表达式匹配8位数字
     while (true) {
         cout << "请输入8位数字学号：";
         cin >> id;
         if (regex_match(id, idPattern)) {
-            cin.ignore(1024, '\n'); // 防止与 getline 混用冲突
+            cin.ignore(1024, '\n'); 
             return id;
         }
         cout << "学号格式错误，请重新输入！" << endl;
@@ -130,6 +131,7 @@ double getValidGrade() {
     }
 }
 
+// 地址
 string getValidAddress(int maxLength) {
     string address;
     while (true) {

@@ -101,7 +101,7 @@ int StudentManager::findById(const string& id) const {
     for (size_t i = 0; i < students.size(); ++i) {
         Student* s = dynamic_cast<Student*>(students[i]);
         if (s && s->id == id)
-            return i;
+            return i; // 返回指针下标
     }
     return -1;
 }
@@ -111,7 +111,7 @@ void StudentManager::deleteStudent() {
     int idx = findById(id);
     if (idx != -1) {
         delete students[idx];
-        students.erase(students.begin() + idx);
+        students.erase(students.begin() + idx); // vector.erase()只会把指针从容器中移除，但不会自动释放(delete)指针指向的那块内存。
         cout << "删除成功！" << endl;
     }
     else {
@@ -170,7 +170,7 @@ void StudentManager::queryById() const {
     string id = getValidId();
     int idx = findById(id);
     if (idx != -1) {
-        // 只显示一个结果，不排序
+        // (只显示一个结果，无需排序)
         cout << left << setw(10) << "学号"
             << setw(10) << "姓名"
             << setw(6) << "性别"
@@ -339,7 +339,7 @@ void StudentManager::displayAndSort(vector<Person*> results) const {
     for (const auto& p : results) p->displayInfo(courseNames);
 }
 
-// =========== 文件存取 ===========
+// 文件存取 
 void StudentManager::saveToFile(const string& filename) const {
     ofstream fout(filename);
     for (const auto& p : students) {

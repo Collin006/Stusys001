@@ -20,7 +20,6 @@ public:
     int findById(const string& id) const;
     void deleteStudent();
     void modifyStudent();
-    // ...其它查询和排序声明（同你原来的即可）...
     // 查询相关
     void queryStudent() const;
     void queryById() const;
